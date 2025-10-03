@@ -5,7 +5,7 @@
 The cleaned CMD and isochrone fitting for NGC 2360 are shown below.
 
 **Raw CMD (Gaia stars):**  
-![Raw CMD](Results and Observations/raw_cmd.png)
+![Raw CMD](Results_and_Observations/raw_cmd.png)
 
 **Cleaned CMD with Best-Fit Isochrone:**  
 ![Best-Fit Isochrone](Results_and_Observations/bestfit_isochrone.png)
