@@ -1,4 +1,17 @@
-# Observations and Results – NGC 2360 CMD Analysis  
+# Results and Observations – NGC 2360 CMD Analysis  
+
+### Results
+
+The cleaned CMD and isochrone fitting for NGC 2360 are shown below.
+
+**Raw CMD (Gaia stars):**  
+![Raw CMD](raw_cmd.png)
+
+**Cleaned CMD with Best-Fit Isochrone:**  
+![Best-Fit Isochrone](bestfit_isochrone.png)
+
+**Multiple Isochrone Comparison:**  
+![Multiple Isochrones](multiple_isochrones.png)
 
 ## 1. Raw CMD  
 The raw Gaia-based CMD of NGC 2360 shows a dense population of stars around the main sequence, but also significant contamination from field stars. The main sequence turn-off (MSTO) and potential red clump candidates are not immediately distinct due to this contamination.  
@@ -38,16 +51,3 @@ The workflow successfully demonstrates:
 - Comparison across models and literature.  
 
 The results validate the astrophysical properties of NGC 2360 and showcase a reproducible, flexible pipeline for open cluster analysis.  
-
-### Results
-
-The cleaned CMD and isochrone fitting for NGC 2360 are shown below.
-
-**Raw CMD (Gaia stars):**  
-![Raw CMD](raw_cmd.png)
-
-**Cleaned CMD with Best-Fit Isochrone:**  
-![Best-Fit Isochrone](bestfit_isochrone.png)
-
-**Multiple Isochrone Comparison:**  
-![Multiple Isochrones](multiple_isochrones.png)
