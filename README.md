@@ -44,7 +44,7 @@ The workflow highlights astrophysical insights and demonstrates coding, visualiz
 - Multiple isochrones (different ages/metallicities) were compared, confirming that 1.2 Gyr with near-solar metallicity provides the best match.  
 - Results are consistent with published literature values, validating the workflow.  
 
-📌 A detailed discussion is available in [`results/observations.md`](results/observations.md).  
+📌 A detailed discussion is available in [`Results and Observations.md`](Results and Observations.md).  
 
 ---
 
